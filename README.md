@@ -1,2 +1,17 @@
-# boking-lapangan-with-laravel-10
-The following is a field booking website using the Laravel framework. This website was created with the aim of completing the final assignment of the PSW2 course at the Del Technology Institute.
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3307
+DB_DATABASE=akubisa
+DB_USERNAME=root
+DB_PASSWORD=
+port 8080
+
+User yang sudah di create :
+
+Admin : yosiagurning@gmail.com [pw(Gurning123)]
+employee : yudi@gmail.com [pw(admin123)]
+customer : benaya@gmail.com [pw(customer123)]
+
+boleh dicoba
+
+sekalian pinjam dong 100 hehehehe
